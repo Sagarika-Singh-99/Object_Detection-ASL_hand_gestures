@@ -1,4 +1,4 @@
-## Fine tuning YOLO to detect and translate ASL ##
+## Fine tuning YOLO-NAS-S to detect and translate ASL ##
 
 ## Overview
 Meta’s Seamless M4T AI model, released in August 2023, translates voice and text into 100 languages. Unfortunately, this model fails to incorporate American Sign Language (ASL). For a translation model to have improved accessibility, video has to be one of the modalities, since real-time translation of ASL to English will require detecting hand gestures. Training an object detection model to recognize ASL gestures is a crucial first step towards real-time translation, even though ASL translation would require further processing, such as forming sentences given prior context.
