@@ -15,7 +15,7 @@ You will also need a roboflow API key to download the dataset.
 ## Dataset
 
   
-The project follows these steps:
+## The project follows these steps:
 
 
 
