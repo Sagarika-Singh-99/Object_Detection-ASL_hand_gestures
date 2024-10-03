@@ -21,7 +21,9 @@ Roboflow ASL dataset
 
 ## Usage
 To run the code, copy the Python file into a Jupyter Notebook (Google Colab was used to train the model)
+
 To train the model from scratch, you may need to allow access to your drive, where the model weights are stored to resume training
+
 You will also need a roboflow API key to download the dataset. 
 
 
